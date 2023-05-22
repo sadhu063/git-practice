@@ -1,5 +1,1 @@
-HI
-hello 
-happy
-sad
-funny
+fun
